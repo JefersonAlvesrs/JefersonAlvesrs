@@ -73,8 +73,6 @@ Atualmente, estou aprimorando minhas habilidades, desenvolvendo projetos para me
 
 </div>
 
-*Essa animação aparecerá depois que configurarmos o GitHub Actions.*
-
 ---
 
 <div align="center">
