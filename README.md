@@ -74,7 +74,7 @@ Atualmente, estou aprimorando minhas habilidades, desenvolvendo projetos para me
 
 ### ✨ Obrigado pela visita!
 
-<img src="https://komarev.com/ghpvc/?username=JefersonAlvesrs&label=Visitas+ao+perfil&color=0969da&style=for-the-badge" alt="Contador de visitas" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=JefersonAlvesrs.JefersonAlvesrs" alt="Contador de visitas" />
 
 **[🌐 Conheça meu portfólio completo](https://jefersonalvesrs.github.io/portfolio-jeferson-alves/)**
 
