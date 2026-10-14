@@ -1,4 +1,7 @@
- 
+<p align="center">
+  <img src="banner-github.png" alt="Banner Jeferson Alves" width="100%">
+</p>
+
 <div align="center">
 
 # Olá, eu sou o Jeferson Alves! 👋
