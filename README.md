@@ -57,14 +57,6 @@ Atualmente, estou aprimorando minhas habilidades, desenvolvendo projetos para me
 | **Atlas Travel** | Plataforma de destinos e planejamento de viagens. | [Repositório](https://github.com/JefersonAlvesrs/Atlas-Travel) |
 | **Portfólio** | Site pessoal com projetos concluídos e futuros. | [Ver site](https://jefersonalvesrs.github.io/portfolio-jeferson-alves/) |
 
-## 📈 Minha atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JefersonAlvesrs&theme=tokyo-night&hide_border=true" alt="Gráfico de atividade" />
-
-</div>
-
 ## 🐍 Minhas contribuições
 
 <div align="center">
